@@ -16,6 +16,7 @@
     "@earendil-works/pi-coding-agent": "*"
   },
   "pi": {
-    "extensions": ["./extensions/pi-kimi-usage/index.ts"]
+    "extensions": ["./extensions/pi-kimi-usage/index.ts"],
+    "image": "https://raw.githubusercontent.com/ShumaoHou/pi-kimi-usage/main/assets/preview.png"
   }
 }
