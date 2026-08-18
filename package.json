@@ -1,10 +1,13 @@
 {
-  "name": "pi-kimi-usage",
+  "name": "@sumhou/pi-kimi-usage",
   "version": "1.0.0",
   "description": "Pi footer extension showing Kimi Coding quota progress, reset countdowns, and Moonshot PAYG balance",
   "type": "module",
   "keywords": ["pi-package"],
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git@github.com:ShumaoHou/pi-kimi-usage.git"

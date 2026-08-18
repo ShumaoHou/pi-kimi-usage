@@ -13,7 +13,7 @@ A Pi extension that shows Kimi Coding quota progress and reset countdowns in the
 ## Install
 
 ```bash
-pi install npm:pi-kimi-usage
+pi install npm:@sumhou/pi-kimi-usage
 ```
 
 Or install from git:
